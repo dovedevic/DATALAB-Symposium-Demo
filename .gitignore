@@ -1,0 +1,29 @@
+# Unity files
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+
+#VS/MonoDevelop
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+/*.idea*/
+
+#OS Generated
+.DS_STORE*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Ddesktop].ini
+[Tt]humbs.db
