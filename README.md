@@ -1,5 +1,5 @@
 # Running Kintinuous
-Steps for running (Kintinuous)[https://github.com/mp3guy/Kintinuous]
+Steps for running (https://github.com/mp3guy/Kintinuous)[Kintinuous]
 
 1. Start computer, hope nvidia doesn't decide not to use the graphics card
 2. Assuming you got to the login page, login to "Other"
