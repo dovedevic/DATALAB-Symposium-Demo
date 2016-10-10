@@ -1,5 +1,5 @@
 # Running Kintinuous
-Steps for running Kintinuous
+Steps for running (Kintinuous)[https://github.com/mp3guy/Kintinuous]
 
 1. Start computer, hope nvidia doesn't decide not to use the graphics card
 2. Assuming you got to the login page, login to "Other"
@@ -22,7 +22,7 @@ Steps for running or the Logger
 4. Change directory to ~/workspace `cd ~/Logger2`
 5. Run `sudo ./Logger2` it should prompt you for a password its the normal lab
    one 6. Hit Record 7. Run around with the Kinect
-8. Hit Stop recording
+6. Hit Stop recording
 
 This leaves a file with the name with the date `2016-10-07_something.klg`
 
